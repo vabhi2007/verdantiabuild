@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84c462bd-f45e-44de-a790-2ac62b8d8669" name="Changes" comment="updated file name">
+      <change afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/ChatGPT.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/editJobPopUp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/jobRecPopUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/public/images/walkthrough.svg" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/public/images/walkthrough.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/adminPortal/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/adminPortal/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/benefits/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/benefits/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/citations/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/citations/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/DurationFilter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/DurationFilter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/jobSubInfoBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/jobSubInfoBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/titleBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/titleBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/topInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/topInfo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/topRightInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/JDB/topRightInfo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/RoleFilter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/RoleFilter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/TestimonialCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/TestimonialCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/editableJobBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/editableJobBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/features/card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/features/card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/features/title.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/features/title.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/jobApplicationPopUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/jobApplicationPopUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/jobDetailBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/jobDetailBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/jopPostForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/jopPostForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/landingContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/landingContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/signInPopUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/signInPopUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/components/signUpPopUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/components/signUpPopUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/jobs/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/jobs/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/portal/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/portal/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verdantia-website/src/app/signIn/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/verdantia-website/src/app/signIn/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/verdantia-website" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fYVY7x1Y4fA4s2LTKZhRRi6TWJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JobFinderWebsiteMigrated/Verdantia-Website-State&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\JobFinderWebsiteMigrated\\Verdantia-Website-State\\verdantia-website\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JobFinderWebsiteMigrated\Verdantia-Website-State\verdantia-website" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c462bd-f45e-44de-a790-2ac62b8d8669" name="Changes" comment="" />
+      <created>1713978045215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713978045215</updated>
+      <workItem from="1713978046022" duration="7608000" />
+      <workItem from="1714025413070" duration="9847000" />
+      <workItem from="1714038427984" duration="7071000" />
+      <workItem from="1719267153836" duration="8721000" />
+      <workItem from="1719292519672" duration="6794000" />
+      <workItem from="1719712212666" duration="754000" />
+      <workItem from="1719713338442" duration="3101000" />
+      <workItem from="1719716798438" duration="7537000" />
+      <workItem from="1719724418614" duration="1936000" />
+      <workItem from="1719729683711" duration="2437000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated file name">
+      <option name="closed" value="true" />
+      <created>1714005390938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714005390938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated file name" />
+  </component>
+</project>
